@@ -1,0 +1,6 @@
+,events,totmiles,avg_velocity,total_idling,riskfactor
+events,1.0,-0.043,0.084,0.105,0.999
+totmiles,-0.043,1.0,-0.042,0.108,-0.085
+avg_velocity,0.084,-0.042,1.0,-0.707,0.087
+total_idling,0.105,0.108,-0.707,1.0,0.099
+riskfactor,0.999,-0.085,0.087,0.099,1.0
